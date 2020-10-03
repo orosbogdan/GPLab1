@@ -1,0 +1,6 @@
+﻿  GPSLab1.cpp
+C:\Users\orosb\source\repos\GPS_Lab1\GPS_Lab1\GPSLab1.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\orosb\source\repos\GPS_Lab1\GPS_Lab1\GPSLab1.cpp(53,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\orosb\source\repos\GPS_Lab1\GPS_Lab1\GPSLab1.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\orosb\source\repos\GPS_Lab1\GPS_Lab1\GPSLab1.cpp(100,27): warning C4018: '<': signed/unsigned mismatch
+  GPS_Lab1.vcxproj -> C:\Users\orosb\source\repos\GPS_Lab1\Debug\GPS_Lab1.exe
